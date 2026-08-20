@@ -46,13 +46,14 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username = gamo-git-coder&show_icons=true&theme = github_dark&hide_border=true&cache_seconds=1800"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gamo-git-coder&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamo-git-coder&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
+
 ---
 
 ## 🔥 GitHub Streak
@@ -112,7 +113,6 @@
 <a href="https://github.com/gamo-git-coder">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://vercel.com/dhanushttr-121119">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </a>
